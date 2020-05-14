@@ -1,0 +1,5 @@
+.jumbotronImg {
+    background-image: url('../../../assets/img/home/jumbotronBg.jpg');
+    background-size: 100%;
+    background-position: right 0px bottom -250px;
+}
